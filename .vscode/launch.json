@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ReservabdApplication<reservabd>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.br.ReservabdApplication",
+            "projectName": "reservabd",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
